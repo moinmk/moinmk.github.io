@@ -1,12 +1,16 @@
 @font-face {
 	font-family: 'GOTHIC';
-	src: url('fonts/GOTHIC.TTF') 
+	src:local('century gothic'),
+        local('GOTHIC'),
+	url('fonts/GOTHIC.TTF') 
 	format('truetype');
 }
 
 @font-face {
 	font-family: 'VLADIMIR';
-	src: url('fonts/VLADIMIR.TTF') 
+	src:local('vladimir script'),
+        local('VLADIMIR'), 
+	url('fonts/VLADIMIR.TTF') 
 	format('truetype');
 }
 
