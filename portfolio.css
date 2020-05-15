@@ -418,7 +418,7 @@ li{
         background-color: green;
         margin-top: 80%;
         padding-top: 50;
-	height:90%;
+	max-height:90%;
     }
 
     .contactcards{
