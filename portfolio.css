@@ -1,12 +1,12 @@
 @font-face {
-	font-family: 'century gothic';
+	font-family: 'GOTHIC';
 	src: url('fonts/GOTHIC.ttf') 
 	format('truetype');
 }
 
 body{
     /* font-family: century gothic; */
-    font-family:'century gothic','Montserrat', sans-serif;
+    font-family:'GOTHIC','century gothic','Montserrat', sans-serif;
     color: white;
 }
 
