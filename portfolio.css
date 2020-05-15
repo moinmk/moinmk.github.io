@@ -125,6 +125,8 @@ li{
 
 .projects{
     background-color: #2A363A;
+    height: 100%;
+    width: 100%;
 }
 
 .projectsdivscontainer{
@@ -215,6 +217,8 @@ li{
 
 .contact{
     background-color: #2A363A;
+	height: 100%;
+     width: 100%;
 }
 
 .contactcardcontainer{
