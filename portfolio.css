@@ -4,6 +4,12 @@
 	format('truetype');
 }
 
+@font-face {
+	font-family: 'VLADIMIR';
+	src: url('fonts/VLADIMIR.TTF') 
+	format('truetype');
+}
+
 body{
     /* font-family: century gothic; */
     font-family:'GOTHIC','century gothic','Montserrat', sans-serif;
