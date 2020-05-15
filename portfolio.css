@@ -415,7 +415,7 @@ li{
     /* /////////////////////////// */
 
     .contactcardcontainer{
-        /* background-color: green; */
+        background-color: green;
         margin-top: 110%;
         padding-top: 50;
     }
@@ -426,7 +426,7 @@ li{
     }
 
     .via{
-        margin-top:0% !important;
+        margin-top:-20% !important;
         margin-left: 10 !important;
     }
 
