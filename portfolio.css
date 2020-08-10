@@ -369,9 +369,21 @@ li{
     .projectsdivsbtns{
         font-size: 12px !important;
         margin-top: 10%;
-	margin-left: 50%;
+		margin-left: 50%;
         width: 80%;
         transform: translate(-50%);
+    }
+	.githubbtns{
+        font-size: 12px !important;
+        margin-top: 10%;
+        margin-left: 50% !important;
+        transform: translate(-50%);
+        width: 80%;
+        color: white;
+        background-color: #F23E08;
+        border: none;
+        border-radius: 100px;
+        padding:10 35 10 35;
     }
 
     .beenthereheading,.votemaniaheading,.memeflixheading{
