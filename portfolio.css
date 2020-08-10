@@ -351,7 +351,7 @@ li{
         margin-left: 0;
         width: 65%;
         height: 70%;
-        overflow: auto;
+        overflow-x: hidden;
         margin-left: 50%;
         transform: translate(-50%);
         border-radius: 10px;
