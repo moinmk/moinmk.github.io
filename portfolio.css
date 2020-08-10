@@ -146,7 +146,7 @@ li{
     z-index: 1;
     margin-left:100;
     margin-top: 120;
-    overflow: auto;
+    overflow-x: hidden;
     padding:40;
     overflow: -moz-scrollbars-none;
     -ms-overflow-style: none;
@@ -434,11 +434,15 @@ li{
 
     .beentheress{
         margin-left: 0 !important;
+	margin-left: 50% !important;
+        transform: translate(-50%);
     }
 
     .ss{
         width: 100%;
         margin-left: 0 !important;
+	margin-left: 50% !important;
+        transform: translate(-50%);
     }
 
     /* /////////////////////////// */
