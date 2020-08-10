@@ -369,6 +369,9 @@ li{
     .projectsdivsbtns{
         font-size: 12px !important;
         margin-top: 10%;
+	margin-left: 50%;
+        width: 80%;
+        transform: translate(-50%);
     }
 
     .beenthereheading,.votemaniaheading,.memeflixheading{
