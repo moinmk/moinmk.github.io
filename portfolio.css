@@ -415,11 +415,13 @@ li{
 
     #fulldetailscontainer{
         padding-top: 60px !important;
+	
     }
 
     .fulldetailsdiv{
         max-height: 75%;
         width: 70%;
+	overflow-x: hidden;
     }
 
     .detailspar{
